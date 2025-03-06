@@ -1,2 +1,6 @@
 Console.WriteLine(" Name : Muhammad Abdullah ");
 Console.WriteLine(" Roll No. : 24-ST-020 ");
+int a=2 , b=3;
+int sum;
+sum = a + b ;
+Console.WriteLine($" The Sum of two number is : {sum} ");
