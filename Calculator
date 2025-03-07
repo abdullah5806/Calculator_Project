@@ -1,6 +1,14 @@
 Console.WriteLine(" Name : Muhammad Abdullah ");
 Console.WriteLine(" Roll No. : 24-ST-020 ");
+
+division
 int a=2 , b=3;
 int div;
 div = a / b ;
 Console.WriteLine($" The Division of two number is : {div} ");
+
+multiplication
+int a=2 , b=3;
+int mult;
+mult = a * b ;
+Console.WriteLine($" The Multiplication of two number is : {mult} ");
