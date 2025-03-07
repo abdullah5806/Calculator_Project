@@ -24,9 +24,4 @@ int a=2 , b=3;
 int sum;
 sum = a + b ;
 Console.WriteLine($" The Sum of two number is : {sum} ");
-
-Module 
-int a=2 , b=3;
-int mod;
-mod = a % b ;
-Console.WriteLine($" The Module of two number is : {mod} ");
+Thank You
